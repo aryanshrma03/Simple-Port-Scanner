@@ -2,3 +2,4 @@ Improved scan result formatting - 03/03/2024 18:11:51
 Improved scan result formatting - 03/03/2024 12:25:37
 Added invalid host filtering - 03/03/2024 21:24:41
 Enhanced scan reliability - 03/03/2024 09:24:51
+Added multi-port scanning support - 03/07/2024 17:12:39
