@@ -9,3 +9,4 @@ Added custom port range scanning - 03/06/2024 20:53:34
 Added common port presets - 03/13/2024 16:54:53
 Added asynchronous scanning support - 03/13/2024 17:38:25
 Enhanced scanner output readability - 03/12/2024 12:22:32
+Added asynchronous scanning support - 03/12/2024 12:09:26
