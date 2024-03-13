@@ -7,3 +7,4 @@ Enhanced host validation workflow - 03/07/2024 20:16:22
 Improved error handling functionality - 03/06/2024 13:32:30
 Added custom port range scanning - 03/06/2024 20:53:34
 Added common port presets - 03/13/2024 16:54:53
+Added asynchronous scanning support - 03/13/2024 17:38:25
