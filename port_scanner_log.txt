@@ -19,3 +19,4 @@ Updated port detection engine - 03/20/2024 09:50:43
 Improved error handling functionality - 03/20/2024 09:02:12
 Added common port presets - 03/16/2024 20:38:46
 Enhanced scanner stability - 03/16/2024 16:16:11
+Added invalid host filtering - 03/16/2024 10:51:48
