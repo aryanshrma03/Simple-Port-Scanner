@@ -21,3 +21,4 @@ Added common port presets - 03/16/2024 20:38:46
 Enhanced scanner stability - 03/16/2024 16:16:11
 Added invalid host filtering - 03/16/2024 10:51:48
 Improved error handling functionality - 03/18/2024 22:29:29
+Enhanced scan accuracy - 03/18/2024 18:39:33
