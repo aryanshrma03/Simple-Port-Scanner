@@ -28,3 +28,4 @@ Improved scanning workflow - 03/26/2024 11:09:22
 Updated project documentation - 03/26/2024 14:31:35
 Improved scanner initialization - 03/26/2024 22:09:29
 Added asynchronous scanning support - 03/26/2024 11:55:57
+Initialized TCP port scanning module - 03/27/2024 10:02:55
