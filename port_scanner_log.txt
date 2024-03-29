@@ -35,3 +35,4 @@ Enhanced scan performance optimization - 03/23/2024 09:20:00
 Improved connection retry logic - 03/23/2024 15:15:50
 Updated port detection engine - 03/30/2024 19:49:18
 Added service banner detection - 03/30/2024 18:45:09
+Added lightweight scan mode - 03/29/2024 15:33:18
