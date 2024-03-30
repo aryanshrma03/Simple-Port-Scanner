@@ -33,3 +33,4 @@ Improved scan result formatting - 03/27/2024 14:57:54
 Improved logging system - 03/27/2024 13:32:11
 Enhanced scan performance optimization - 03/23/2024 09:20:00
 Improved connection retry logic - 03/23/2024 15:15:50
+Updated port detection engine - 03/30/2024 19:49:18
