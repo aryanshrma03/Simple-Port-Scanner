@@ -38,3 +38,4 @@ Added service banner detection - 03/30/2024 18:45:09
 Added lightweight scan mode - 03/29/2024 15:33:18
 Improved scanner responsiveness - 03/29/2024 12:40:31
 Improved socket connection handling - 03/31/2024 10:41:40
+Improved exception handling - 03/31/2024 17:22:27
