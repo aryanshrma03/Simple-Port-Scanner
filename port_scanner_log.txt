@@ -47,3 +47,4 @@ Improved timeout handling logic - 04/08/2024 15:34:02
 Added service banner detection - 04/08/2024 13:24:32
 Added invalid host filtering - 04/08/2024 11:04:30
 Initialized TCP port scanning module - 04/11/2024 11:10:35
+Updated socket timeout configuration - 04/11/2024 18:25:00
