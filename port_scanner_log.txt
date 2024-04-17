@@ -54,3 +54,4 @@ Improved scan result formatting - 04/09/2024 16:20:10
 Improved port response analysis - 04/09/2024 15:58:32
 Enhanced scanner output readability - 04/17/2024 12:03:21
 Improved target parsing functionality - 04/17/2024 20:45:41
+Enhanced network connectivity checks - 04/17/2024 21:48:12
