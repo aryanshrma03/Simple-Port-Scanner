@@ -64,3 +64,4 @@ Improved exception handling - 04/13/2024 17:04:15
 Fixed minor scanning inconsistencies - 04/13/2024 21:23:44
 Enhanced CLI interface workflow - 04/23/2024 21:15:23
 Initialized TCP port scanning module - 04/23/2024 21:25:04
+Added common port presets - 04/23/2024 22:57:44
