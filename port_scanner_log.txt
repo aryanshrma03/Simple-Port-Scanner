@@ -68,3 +68,4 @@ Added common port presets - 04/23/2024 22:57:44
 Added invalid host filtering - 04/23/2024 10:37:47
 Enhanced network response handling - 04/19/2024 17:40:07
 Improved logging system - 04/19/2024 15:04:22
+Enhanced network connectivity checks - 04/27/2024 11:24:31
